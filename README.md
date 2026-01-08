@@ -1,4 +1,4 @@
-Android Key Attestation Test App
+http://www.apache.org/licenses/LICENSE-2.0Android Key Attestation Test App
 ==============================
 
 This app supports generating, saving, loading, parsing and verifying Android [key and ID attestation](https://source.android.com/docs/security/features/keystore/attestation) data.
